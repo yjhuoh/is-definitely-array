@@ -1,7 +1,7 @@
 {
   "name": "is-definitely-array",
   "description": "for when you need certainty over speed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/yjhuoh/is-definitely-array.git"
